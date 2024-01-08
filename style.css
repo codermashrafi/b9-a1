@@ -155,8 +155,11 @@ header .header-main .header-text h1 {
 .happy-date h2 {
   font-size: 48px;
   color: #ff0000;
+  margin-bottom: 10px;
 }
 .happy-date p {
+  margin-bottom: 20px;
+  color: #070211;
 }
 /* happy end */
 /* main end */
