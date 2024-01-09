@@ -338,6 +338,7 @@ img {
   border-radius: 30px;
   outline: none;
   border: 0px;
+  padding-top: 20px;
 }
 .subscribe-text a {
   text-decoration: none;
