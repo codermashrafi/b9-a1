@@ -395,7 +395,7 @@ footer hr {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 70px;
+  padding: 70px 0;
 }
 .footer-text2 h3,
 h4 {
