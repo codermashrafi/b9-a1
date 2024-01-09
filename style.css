@@ -5,9 +5,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-p {
-  opacity: 0.7;
-}
+
 section {
   margin: 80px 0;
 }
@@ -70,19 +68,19 @@ header .header-main .header-text h1 {
 .main-offer h2 {
   font-size: 88px;
   color: #ff0000;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 .main-offer p {
   font-size: 24px;
   color: #ff0000;
   font-weight: 600;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .main-offer h3 {
   font-size: 48px;
   color: #070211;
   font-weight: 600;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 /* offer end */
 /* party */
@@ -138,6 +136,7 @@ header .header-main .header-text h1 {
   text-decoration: none;
   font-size: 20px;
   color: #fff;
+  padding-left: 20px;
 }
 .party-img {
   margin-top: 70px;
@@ -163,6 +162,7 @@ header .header-main .header-text h1 {
   font-size: 32px;
   font-weight: 600;
   margin-bottom: 20px;
+  color: #070211;
 }
 .maine-time p span {
   color: #ff0000;
@@ -200,10 +200,12 @@ header .header-main .header-text h1 {
 .happy-text h2 {
   font-size: 48px;
   color: #070211;
+  margin: 20px 0;
 }
 .happy-text p {
   font-size: 20px;
   color: #070211;
+  opacity: 0.7;
 }
 .happy-img img {
   border: 10px solid #ff0000;
@@ -218,6 +220,7 @@ header .header-main .header-text h1 {
 .happy-date p {
   margin-bottom: 20px;
   color: #070211;
+  opacity: 0.7;
 }
 /* happy end */
 /* Sale */
@@ -243,6 +246,7 @@ header .header-main .header-text h1 {
 .sale-text p {
   line-height: 32px;
   margin-bottom: 30px;
+  opacity: 0.7;
 }
 
 .sale-img1 {
@@ -287,6 +291,7 @@ header .header-main .header-text h1 {
   color: #070211;
   line-height: 32px;
   margin-bottom: 50px;
+  opacity: 0.7;
 }
 
 .img11,
@@ -322,6 +327,7 @@ img {
   color: #070211;
   margin-bottom: 20px;
   opacity: 60%;
+  opacity: 0.7;
 }
 .subscribe-text input {
   width: 300px;
